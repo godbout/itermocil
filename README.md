@@ -15,4 +15,4 @@ Please see the [original one](https://github.com/TomAnthony/itermocil).
 1. Clone the repo
 2. Then install with `python3 setup.py install --install-scripts=/usr/local/bin`
 
-I have zero knowledge in Python. But it works.
+I have zero knowledge in 🐍. But it works.
