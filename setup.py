@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='itermocil',
-    version='0.2.2',
-    url='https://github.com/TomAnthony/itermocil',
+    name='iTermocil',
+    version='1.0.0',
+    url='https://github.com/godbout/itermocil',
     license='MIT',
-    description='Create pre-defined window/pane layouts and run commands in iTerm',
-    author='Tom Anthony',
+    description='iTermocil for Python3',
+    author='Guillaume Leclerc',
     author_email='',
     packages=find_packages(),
     py_modules=['itermocil'],
