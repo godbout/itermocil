@@ -13,6 +13,6 @@ check out the [original one](https://github.com/TomAnthony/itermocil).
 # INSTALLATION
 
 1. clone the repo
-2. go in and install with `python3 setup.py install --install-scripts=/usr/local/bin`
+2. go in and install with `python3 setup.py install --install-scripts=$(brew --prefix)/bin`
 
 zero knowledge in 🐍, but It Just Works™.
